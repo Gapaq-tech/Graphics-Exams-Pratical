@@ -1,0 +1,11 @@
+Model Information:
+* title:	PrntnrG_230401
+* source:	https://sketchfab.com/3d-models/prntnrg-230401-6ade8299d6e34f52b124b756a5abbe30
+* author:	SzD (https://sketchfab.com/siposmernokiroda)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PrntnrG_230401" (https://sketchfab.com/3d-models/prntnrg-230401-6ade8299d6e34f52b124b756a5abbe30) by SzD (https://sketchfab.com/siposmernokiroda) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
